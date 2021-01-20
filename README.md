@@ -17,14 +17,11 @@
 
 - ⚡ Fun fact **I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakhar10v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prakhar10v" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/prakhar-varshney-6b3a92181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prakhar varshney" height="20" width="30" /></a>
+<a href="https://instagram.com/prakhar10v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prakhar10v" height="20" width="30" /></a>
 <a href="https://www.hackerrank.com/prakhar_10_vars1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prakhar_10_vars1" height="20" width="30" /></a>
 </p>
 
