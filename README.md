@@ -18,7 +18,12 @@
 - ⚡ Fun fact **I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!**
 
 ## Latest Blog Posts:
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [Definitive Guide for Creating Carousel in React.](https://prakhar10varshney.hashnode.dev/definitive-guide-for-creating-carousel-in-react)
+- [Dealing with Functions in JavaScript.](https://prakhar10varshney.hashnode.dev/dealing-with-functions-in-javascript)
+- [Declaring your First Variable in JavaScript](https://prakhar10varshney.hashnode.dev/declaring-your-first-variable-in-javascript)
+- [Learning Git and GitHub using Command Line.](https://prakhar10varshney.hashnode.dev/learning-git-and-github-using-command-line)
+- [Getting Started with Speech Recognition in JS](https://prakhar10varshney.hashnode.dev/getting-started-with-speech-recognition-in-js)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools : 
