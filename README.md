@@ -5,7 +5,7 @@
 
 - 🌱 Polishing my Skills in **NodeJs, ExpressJs and MongoDb.**
 
-- 👨‍💻 I like to showcase my work, check it out at [prakhar-varshney](https:/prakharvarshney.tech)
+- 👨‍💻 I like to showcase my work, check it out at [prakhar-varshney](https://www.prakharvarshney.tech)
 
 - 📝 I love to write technical blogs to help beginners get started! Check them out at [prakhar10-blog](https://prakhar10-blog.netlify.app)
 
